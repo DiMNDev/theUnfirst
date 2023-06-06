@@ -6,3 +6,11 @@ padding: 0;
 html {
 font-size: 62.5%
 }
+
+body {
+color: rebeccapurple;
+font-weight: bold;
+display: flex;
+align-items: center;
+justify-content: center;
+}
